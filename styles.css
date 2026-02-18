@@ -20,4 +20,5 @@ h2 {
     margin-bottom: -10px;
     border-bottom: 2px double white;
     padding-bottom: 5px;
+    text-transform: uppercase;
 }
