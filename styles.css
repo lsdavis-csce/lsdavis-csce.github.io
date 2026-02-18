@@ -17,7 +17,7 @@ h1 {
 h2 {
     font-family: 'Noto Serif', serif;
     margin-bottom: -10px;
-    border-bottom: 2px double white;
+    border-bottom: 2px double #EAE0C8;
     padding-bottom: 5px;
     text-transform: uppercase;
 }
