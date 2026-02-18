@@ -14,11 +14,13 @@ h1 {
     font-size: 2.5em;
     text-align: center !important;
 }
-
 h2 {
     font-family: 'Noto Serif', serif;
     margin-bottom: -10px;
     border-bottom: 2px double white;
     padding-bottom: 5px;
     text-transform: uppercase;
+}
+.about {
+    border-left: 4px solid #EAE0C8;
 }
