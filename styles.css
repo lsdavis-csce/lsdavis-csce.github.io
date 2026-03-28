@@ -31,3 +31,18 @@ h2 {
     padding-left: 10px;
     margin-left: 5px;
 }
+.personas p {
+    border-left: 4px solid #EAE0C8;
+    padding-left: 10px;
+    margin-left: 5px;
+}
+.sketches p {
+    border-left: 4px solid #EAE0C8;
+    padding-left: 10px;
+    margin-left: 5px;
+}
+.storyboards p {
+    border-left: 4px solid #EAE0C8;
+    padding-left: 10px;
+    margin-left: 5px;
+}
