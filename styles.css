@@ -22,15 +22,15 @@ h2 {
     text-transform: uppercase;
 }
 .projects { 
-    display:flex; 
-    flex-wrap:wrap; 
+    display:flex !important; 
+    flex-wrap:wrap !important; 
 } 
 .project {
-    width: 30%;
-    margin: 10px;
-    padding: 20px 10px;
-    background: #273b4a;
-    border-radius: 25%;
+    width: 30% !important;
+    margin: 10px !important;
+    padding: 20px 10px !important;
+    background: #273b4a !important;
+    border-radius: 25% !important;
 }
 .about p {
     border-left: 4px solid #EAE0C8;
