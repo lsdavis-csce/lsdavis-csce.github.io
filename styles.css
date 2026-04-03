@@ -16,6 +16,7 @@ img {
 h3 {
     padding-left: 10px !important;
     margin-top: 0px !important;
+    font-family: 'Noto Serif', serif;
 }
 a {  
     text-decoration: underline;
