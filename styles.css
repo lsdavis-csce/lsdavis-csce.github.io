@@ -49,6 +49,11 @@ h2 {
     padding-left: 10px;
     margin-left: 5px;
 }
+.contact p {
+    border-left: 4px solid #EAE0C8;
+    padding-left: 10px;
+    margin-left: 5px;
+}
 .skills p {
     border-left: 4px solid #EAE0C8;
     padding-left: 10px;
