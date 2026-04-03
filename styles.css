@@ -9,6 +9,9 @@ body {
     margin: auto;
     background-position: center;
 }
+img {
+    text-align: center;
+}
 a {  
     text-decoration: dotted;
     color: #EAE0C8;
