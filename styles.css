@@ -36,6 +36,7 @@ h2 {
 .projects { 
     display:flex !important; 
     flex-wrap:wrap !important; 
+    margin-top: 10px;
 } 
 .project {
     width: 30% !important;
