@@ -21,6 +21,17 @@ h2 {
     padding-bottom: 5px;
     text-transform: uppercase;
 }
+.projects { 
+    display:flex; 
+    flex-wrap:wrap; 
+} 
+.project {
+    width: 30%;
+    margin: 10px;
+    padding: 20px 10px;
+    background: #273b4a;
+    border-radius: 25%;
+}
 .about p {
     border-left: 4px solid #EAE0C8;
     padding-left: 10px;
